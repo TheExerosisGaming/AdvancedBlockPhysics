@@ -1,0 +1,5 @@
+name: BlockPhysics
+version: 0.5
+description: Block physics with an engine :D
+
+main: me.exerosis.physics.PhysicsPlugin
