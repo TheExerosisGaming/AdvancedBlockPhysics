@@ -12,5 +12,11 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Maven: com.badlogicgames.gdx:gdx:1.6.5" level="project" />
+    <orderEntry type="module" module-name="ReflectionUtilities" />
+    <orderEntry type="module" module-name="EventFramework" />
+    <orderEntry type="module" module-name="InputOutputUtilities" />
+    <orderEntry type="library" name="Maven: commons-io:commons-io:2.2" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-lang3:3.1" level="project" />
+    <orderEntry type="library" name="Spigot1.8.1" level="project" />
   </component>
 </module>
